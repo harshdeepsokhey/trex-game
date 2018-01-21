@@ -1,5 +1,7 @@
 # TRex-Game: "Dino on the command line"
 
+![alt tag](https://cloud.githubusercontent.com/assets/2814256/15635729/8de218ec-2604-11e6-8ed1-a713414da684.png)
+
 ##Description:
 The T-Rex Game is a widely popular game played on the Google Chrome Browser in the absence of Internet Connectivity. This is a basic command line version of the same game implemented using the CURSES library and is written in Python.
 
