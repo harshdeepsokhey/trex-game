@@ -22,14 +22,14 @@ python Trex-Game.py
 
 ## Open Issues:
 
--[ ] Test the collision conditions rigoursly (High)
--[ ] Increase the difficult quotient of the game (Med)
--[ ] Put more features like crouching and game pause (Med)
--[ ] Support for drawing multiple 'Cacti' (Med)
--[ ] Allow the 'Clouds' to move slower (Med)
--[ ] Proper Formatting needed (Low)
+- [ ] Test the collision conditions rigoursly (High)
+- [ ] Increase the difficult quotient of the game (Med)
+- [ ] Put more features like crouching and game pause (Med)
+- [ ] Support for drawing multiple 'Cacti' (Med)
+- [ ] Allow the 'Clouds' to move slower (Med)
+- [ ] Proper Formatting needed (Low)
 
-# Quotes: "Without internet, it's like living in the Dinosaur Age" - Anon
+## Quotes: `Without internet, it's like living in the Dinosaur Age" - Anon`
 
 ## Game Run:
 
